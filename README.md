@@ -1,6 +1,6 @@
 # Tensorflow Serving Client with Python3 
 
-* python3 演示客户端
+python3 演示客户端
 
 ## 注意
 * `channel = implementations.insecure_channel('172.17.0.5', int(8500))`
